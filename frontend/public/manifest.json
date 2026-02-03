@@ -1,0 +1,24 @@
+{
+    "name": "StreamEase IPTV",
+    "short_name": "StreamEase",
+    "description": "Premium Live TV Streaming Platform",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#050505",
+    "theme_color": "#00ff6a",
+    "icons": [
+        {
+            "src": "/logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "orientation": "portrait"
+}
